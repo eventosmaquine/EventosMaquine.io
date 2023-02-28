@@ -8,3 +8,8 @@
 #align-center{
     text-align: center;
 }
+#bg-site{
+    /*background-position: center;*/
+    background-attachment: fixed;
+    background-repeat: round;
+}
